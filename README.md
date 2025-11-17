@@ -1,0 +1,2 @@
+# AIML_Portfolio
+📊 End-to-End Machine Learning Portfolio: Real-World Regression, Classification & Deep Learning  This repository showcases a complete collection of machine learning projects covering data preprocessing, regression modeling, classification, oversampling techniques, unsupervised learning, and neural network development using TensorFlow.  I worked extensively with real datasets such as Seoul Bike Sharing, MAGIC Gamma Telescope, and Wheat Seeds, applying industry-standard ML workflows.
