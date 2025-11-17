@@ -138,10 +138,9 @@ Output Layer (Sigmoid / Linear)
 │── 📓 regression.ipynb
 │── 📓 classification.ipynb
 │── 📓 unsupervised.ipynb
-│── 📁 data/
-│     ├── SeoulBikeData.csv
-│     ├── magic04.data
-│     ├── seeds_dataset.txt
+│── SeoulBikeData.csv
+│── magic04.data
+│── seeds_dataset.txt
 │── requirements.txt
 └── README.md
 ```
