@@ -1,4 +1,4 @@
-# 📊 Machine Learning Portfolio  
+# 📊 Machine Learning Portfolio: End-to-End Pipelines for Regression, Classification & Deep Learning  
 ### **Regression • Classification • Deep Learning • Imbalanced Data Handling**
 
 This repository contains multiple applied Machine Learning projects implemented using  
